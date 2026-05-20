@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /forms/
+Disallow: /assets/vendors/
+Sitemap: https://www.lead-conseils.com/seo/sitemap.xml
+
+# Délai d'exploration
+Crawl-delay: 5
+
+# Robots spécifiques
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 2
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2

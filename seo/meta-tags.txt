@@ -1,0 +1,30 @@
+<!-- META TAGS DE BASE -->
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="LEAD CONSEILS - Société de conseil en informatique au Gabon. Audit IT, sécurité réseau, infrastructure, formation et maintenance.">
+<meta name="keywords" content="audit informatique, sécurité réseau, conseil IT, formation informatique, Gabon, Libreville, infrastructure système, virtualisation">
+<meta name="author" content="LEAD CONSEILS">
+<meta name="robots" content="index, follow">
+<meta name="language" content="French">
+<meta name="revisit-after" content="7 days">
+
+<!-- OPEN GRAPH / FACEBOOK -->
+<meta property="og:title" content="LEAD CONSEILS | Conseil & Audit IT">
+<meta property="og:description" content="Expertise en audit informatique, sécurité réseau et infrastructure IT au Gabon.">
+<meta property="og:image" content="https://www.lead-conseils.com/assets/images/logo.jpeg">
+<meta property="og:url" content="https://www.lead-conseils.com">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="LEAD CONSEILS">
+
+<!-- TWITTER CARD -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="LEAD CONSEILS | Conseil & Audit IT">
+<meta name="twitter:description" content="Expertise en audit informatique, sécurité réseau et infrastructure IT au Gabon.">
+<meta name="twitter:image" content="https://www.lead-conseils.com/assets/images/logo.jpeg">
+
+<!-- GEOGRAPHIE -->
+<meta name="geo.placename" content="Libreville, Gabon">
+<meta name="geo.region" content="GA-EL">
+
+<!-- THEME COLOR (pour mobile) -->
+<meta name="theme-color" content="#0A2647">
